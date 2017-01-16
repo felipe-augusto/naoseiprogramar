@@ -1,0 +1,3 @@
+Como nós nao sabemos programar e nunca aprenderemos por completo, a melhor coisa que podemos fazer é sempre nos atualizarmos para aprender novas tecnologias e melhorar nossas práticas de desenvolvimento. 
+
+Logo abaixo, segue uma lista de livros que li para tentar ser um desenvolvedor um pouco melhor, cada um desses livros tem minha nota no começo seguida por um recorte dos pontos principais do livro, organizados de certa forma que pudessem também virar vídeos para YouTube.
